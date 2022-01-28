@@ -1,0 +1,24 @@
+.dashboard {
+  display: flex;
+  /* grid-template-columns: repeat(2, 1fr); */
+}
+.menubar {
+  width: 200px;
+  height: 550px;
+  background-color: #0052cc;
+}
+.menubar li {
+  list-style: none;
+}
+.dashboard-body {
+  width: 950px;
+}
+.dashboard-body h4 {
+  color: #fff;
+  width: 1062px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  background-color: #fd756c;
+}
